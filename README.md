@@ -4,7 +4,7 @@ Este é um projeto de catálogo de receitas desenvolvido como prática de Fullst
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Busca de receitas por nome
 - Exibição de detalhes de cada receita (ingredientes, modo de preparo, imagem)
@@ -15,7 +15,7 @@ Este é um projeto de catálogo de receitas desenvolvido como prática de Fullst
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 Como rodar localmente
 
